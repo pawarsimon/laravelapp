@@ -17,6 +17,9 @@
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="/posts">Blog <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/posts">Blog <span class="sr-only">(current)</span></a>
             </li>  
           </ul>
           <ul class="nav navbar-nav navbar-right">
